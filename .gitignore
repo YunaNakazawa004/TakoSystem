@@ -39,3 +39,14 @@
 
 # debug information files
 *.dwo
+
+# Visual Studio
+*.suo
+*.user
+*.sln.user
+*.vs/
+*.resharper/
+
+# Build Output
+bin/
+obj/
