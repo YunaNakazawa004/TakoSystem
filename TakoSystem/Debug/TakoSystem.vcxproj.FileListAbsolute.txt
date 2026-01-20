@@ -1,1 +1,2 @@
 C:\Users\student\Desktop\WPO\TakoSystem_WPO\TakoSystem\Debug\TakoSystem.exe
+C:\Users\student\Desktop\WPO\TakoSystem\TakoSystem\Debug\TakoSystem.exe
