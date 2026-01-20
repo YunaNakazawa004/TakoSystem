@@ -39,8 +39,8 @@
 
 # debug information files
 *.dwo
-/Debug
-/Release
+Debug/
+Release/
 
 # Visual Studio
 *.suo
