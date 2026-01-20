@@ -1,1 +1,15 @@
-﻿  TakoSystem.vcxproj -> C:\Users\student\Desktop\WPO\TakoSystem\TakoSystem\Debug\TakoSystem.exe
+﻿  camera.cpp
+C:\Users\student\OneDrive\Desktop\team000\TakoSystem\TakoSystem\camera.cpp(382,1): error C2471: プログラム データベース 'C:\Users\student\OneDrive\Desktop\team000\TakoSystem\TakoSystem\Debug\vc142.idb' を更新できません。
+  debugproc.cpp
+C:\Users\student\OneDrive\Desktop\team000\TakoSystem\TakoSystem\debugproc.cpp : fatal error C1033: プログラム データベース 'C:\Users\student\OneDrive\Desktop\team000\TakoSystem\TakoSystem\Debug\vc142.pdb' を開けません。
+  input.cpp
+C:\Users\student\OneDrive\Desktop\team000\TakoSystem\TakoSystem\input.cpp : fatal error C1033: プログラム データベース 'C:\Users\student\OneDrive\Desktop\team000\TakoSystem\TakoSystem\Debug\vc142.pdb' を開けません。
+  light.cpp
+C:\Users\student\OneDrive\Desktop\team000\TakoSystem\TakoSystem\light.cpp : fatal error C1033: プログラム データベース 'C:\Users\student\OneDrive\Desktop\team000\TakoSystem\TakoSystem\Debug\vc142.pdb' を開けません。
+  main.cpp
+C:\Users\student\OneDrive\Desktop\team000\TakoSystem\TakoSystem\main.cpp : fatal error C1033: プログラム データベース 'C:\Users\student\OneDrive\Desktop\team000\TakoSystem\TakoSystem\Debug\vc142.pdb' を開けません。
+  model.cpp
+C:\Users\student\OneDrive\Desktop\team000\TakoSystem\TakoSystem\model.cpp : fatal error C1033: プログラム データベース 'C:\Users\student\OneDrive\Desktop\team000\TakoSystem\TakoSystem\Debug\vc142.pdb' を開けません。
+  player.cpp
+C:\Users\student\OneDrive\Desktop\team000\TakoSystem\TakoSystem\player.cpp : fatal error C1033: プログラム データベース 'C:\Users\student\OneDrive\Desktop\team000\TakoSystem\TakoSystem\Debug\vc142.pdb' を開けません。
+  コードを生成中...
