@@ -1,5 +1,6 @@
 ﻿  camera.cpp
 C:\Users\student\OneDrive\Desktop\team000\TakoSystem\TakoSystem\camera.cpp(382,1): error C2471: プログラム データベース 'C:\Users\student\OneDrive\Desktop\team000\TakoSystem\TakoSystem\Debug\vc142.idb' を更新できません。
+C:\Users\student\OneDrive\Desktop\team000\TakoSystem\TakoSystem\camera.cpp(382,1): error C2471: プログラム データベース 'C:\Users\student\OneDrive\Desktop\team000\TakoSystem\TakoSystem\Debug\vc142.pdb' を更新できません。
   debugproc.cpp
 C:\Users\student\OneDrive\Desktop\team000\TakoSystem\TakoSystem\debugproc.cpp : fatal error C1033: プログラム データベース 'C:\Users\student\OneDrive\Desktop\team000\TakoSystem\TakoSystem\Debug\vc142.pdb' を開けません。
   input.cpp
